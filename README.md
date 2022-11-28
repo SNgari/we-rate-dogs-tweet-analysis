@@ -37,7 +37,7 @@ The analysis was done in Jupyter Notebook. The packages used were:
 |re| json|
 | Pandas | Numpy 
 |Seaborn |Requests
-|Matplotlib pyplot||
+|Matplotlib pyplot|Tweepy|
 
 ## Summary of Process
 1. Gathering - from all three sources
