@@ -12,7 +12,7 @@ An analysis of dog-related tweets from `WeRateDogs` twitter handle [@dog_rates](
 ## Table of Contents
 - [Background](#background)
 - [Dataset](#dataset)
-- [Packages](#packages)
+- [Libraries](#libraries)
 - [Summary of Process](#summary-of-process)
 - [Key Insights](#key-insights)
 
@@ -30,8 +30,8 @@ With the help of Udacity, I was able to get access to:
 Through Twitter's API:
 + Extra tweet data such as likes and retweets (txt) 
 
-## Packages
-The analysis was done in Jupyter Notebook. The packages used were:  
+## Libraries
+The analysis was done in Jupyter Notebook. The libraries used were:  
 | | |
 |--- |---|
 |re| json|
